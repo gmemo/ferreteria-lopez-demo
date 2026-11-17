@@ -1,0 +1,20 @@
+[
+  {"id": "dev", "titulo": "Devoluciones", "fuente": "politicas_2026.pdf, p. 2",
+   "texto": "Tiene 30 días naturales desde la entrega para devolver un producto sin usar y con su empaque. El reembolso se hace al mismo medio de pago en un máximo de 10 días hábiles. Las excepciones las autoriza un supervisor."},
+  {"id": "dan", "titulo": "Producto dañado o incompleto", "fuente": "politicas_2026.pdf, p. 2",
+   "texto": "Si el producto llegó dañado o incompleto, repórtelo en las primeras 72 horas con fotos del empaque y del producto. El cambio no tiene costo."},
+  {"id": "env", "titulo": "Envíos y tiempos de entrega", "fuente": "politicas_2026.pdf, p. 3",
+   "texto": "Entregamos en Querétaro, Corregidora y El Marqués en 1 a 2 días hábiles. Envío gratis en compras desde 1,500 pesos; en compras menores cuesta 120 pesos."},
+  {"id": "dir", "titulo": "Cambiar la dirección de entrega", "fuente": "politicas_2026.pdf, p. 3",
+   "texto": "La dirección solo se puede cambiar mientras el pedido está en preparación, antes de salir del almacén. Escríbanos por WhatsApp con su número de pedido."},
+  {"id": "fac", "titulo": "Facturación", "fuente": "politicas_2026.pdf, p. 4",
+   "texto": "Puede generar su factura (CFDI 4.0) dentro del mismo mes de la compra en ferreterialopez.mx/factura con su RFC, régimen fiscal, código postal y uso de CFDI."},
+  {"id": "pag", "titulo": "Formas de pago", "fuente": "politicas_2026.pdf, p. 4",
+   "texto": "Aceptamos efectivo, tarjeta de crédito y débito, transferencia SPEI y meses sin intereses con tarjetas participantes en compras desde 3,000 pesos."},
+  {"id": "gar", "titulo": "Garantías", "fuente": "politicas_2026.pdf, p. 5",
+   "texto": "La herramienta eléctrica tiene 1 año de garantía del fabricante. Presente su ticket o número de pedido en cualquier sucursal."},
+  {"id": "suc", "titulo": "Sucursales y horarios", "fuente": "sucursales.pdf",
+   "texto": "Tenemos 3 sucursales: Centro (Av. Zaragoza 120, Querétaro), Corregidora (Calle Hidalgo 45) y El Marqués (Carretera a Chichimequillas km 2). Lunes a sábado de 8 a 19 h; domingo de 9 a 14 h."},
+  {"id": "may", "titulo": "Cotizaciones de mayoreo", "fuente": "politicas_2026.pdf, p. 6",
+   "texto": "Para obras y compras de mayoreo hacemos cotizaciones con precio especial. Envíe la lista de materiales por WhatsApp y le respondemos el mismo día hábil."}
+]
